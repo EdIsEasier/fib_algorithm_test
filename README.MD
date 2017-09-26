@@ -1,0 +1,1 @@
+Two fibonacci algorithms - one naive (runs in exponential time) and one that runs in linear time. For testin & curiosity purposes.
